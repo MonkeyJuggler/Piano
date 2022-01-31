@@ -1,0 +1,365 @@
+
+.notes {
+    border: 0px black solid;
+    display: flex;
+    align-items: center;
+    min-height: 100px;
+}
+
+#f {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;    
+}
+
+#fsharp {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+    background-color: black;
+}
+
+#g {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+
+}
+
+#gsharp {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+    background-color: black;
+}
+
+#a { border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#asharp {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+    background-color: black;
+}
+
+#b {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#c {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#csharp {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+    background-color: black;
+}
+
+#d {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#dsharp {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+    background-color: black;
+}
+
+#e {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#ff {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#ffsharp {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+    background-color: black;
+}
+
+#gg {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#ggsharp {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+    background-color: black;
+}
+
+#aa {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#aasharp {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+    background-color: black;
+}
+
+#bb {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#cc {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#ccsharp {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+    background-color: black;
+}
+
+#dd {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+#ddsharp {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+    background-color: black;
+}
+
+#ee {
+    border: 1px black solid;
+    display: flex;
+    min-height: 100px;
+    min-width: 22px;
+}
+
+.gap {
+    display: flex;
+    max-width: 574px;
+    min-height: 50px;
+}
+
+.keys {
+    display: flex;
+    max-width: 574px;
+    min-height: 22px;
+    min-width: 22px;  
+}
+
+#fbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#fsharpbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#gbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+#gsharpbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#abut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#asharpbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#bbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#cbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#csharpbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#dbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#dsharpbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#ebut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#ffbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#ffsharpbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#ggbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#ggsharpbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#aabut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#aasharpbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#bbbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#ccbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#ccsharpbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#ddbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#ddsharpbut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
+
+#eebut {
+    border: 1px black solid;
+    display: flex;
+    min-height: 22px;
+    min-width: 22px; 
+}
